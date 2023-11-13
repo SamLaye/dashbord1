@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dashbord1/static/css/main.46d70762.css",
+    "main.js": "/dashbord1/static/js/main.a1d6c03d.js",
+    "static/media/sunglasses_cool.png": "/dashbord1/static/media/sunglasses_cool.1e4af175352864924010.png",
+    "index.html": "/dashbord1/index.html",
+    "main.46d70762.css.map": "/dashbord1/static/css/main.46d70762.css.map",
+    "main.a1d6c03d.js.map": "/dashbord1/static/js/main.a1d6c03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d70762.css",
+    "static/js/main.a1d6c03d.js"
+  ]
+}
